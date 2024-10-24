@@ -1,0 +1,37 @@
+# Ignore sensitive information
+*.key
+*.pem
+*.crt
+*.enc
+*.p12
+*.pfx
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Ignore compiled files
+*.o
+*.so
+*.dll
+*.exe
+
+# Ignore Python virtual environment
+venv/
+.env
+
+# Ignore node_modules
+node_modules/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
